@@ -1,0 +1,51 @@
+.box{
+    background: cornflowerblue;
+    height: 200px;
+
+}
+.box>h2{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 100px;
+}
+
+.point{
+    background: darkblue;
+    height: 300px;
+    width: 220px;
+    margin-top: 10px;
+
+}
+
+.father{
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+.point>h2{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 150px;
+
+}
+
+
+.lastbox{
+    background: cornflowerblue;
+    height: 220px;
+}
+
+.lastbox>h2{
+    text-align: center;
+    padding-top: 100px;
+    color: whitesmoke;
+}
+.mainfather{
+    height: 800px;
+    width: 700px;
+    margin: auto;
+
+
+}
