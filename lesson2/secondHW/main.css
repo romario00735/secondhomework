@@ -1,0 +1,35 @@
+.card{ width: 270px;
+    height: 320px;
+    /*background: gray;*/
+    border: 3px solid green;
+
+}
+.card>h3{
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+    box-sizing: border-box;
+    color: chocolate;
+
+}
+.card1>p{
+    box-sizing: border-box;
+    text-align: center;
+    padding: 20px;
+    color: darkgrey;
+}
+.button-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-box>button{
+    width: 130px;
+    height: 45px;
+}
+.father{
+    display: flex;
+    justify-content: space-between;
+    margin: 300px;
+
+}
