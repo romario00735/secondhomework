@@ -1,0 +1,50 @@
+.fa-solid{
+    font-size: 50px;
+    padding-top: 50px;
+    margin-left: 60px;
+    width: 180px;
+    color: gray;
+}
+.fa-regular{
+    font-size: 50px;
+    padding-top: 50px;
+    margin-left: 60px;
+    width: 180px;
+    color: gray;
+
+}
+.container{
+    display: flex;
+    width: 480px;
+    height: 180px;
+    background: whitesmoke;
+    box-sizing: border-box;
+    border:2px solid red;
+    border-radius: 10px;
+}
+.carda>h3{
+    color: coral;
+    padding-left: 30px;
+    font-size: 25px;
+
+}
+.carda>p{
+    color: gray;
+    padding-left: 30px;
+}
+.main-container{
+    background: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    height: 198px;
+    padding-top: 40px;
+    padding-left: 30px;
+    column-gap: 30px;
+    row-gap: 10px;
+    padding-bottom: 15px;
+
+}
+
+
+
+
