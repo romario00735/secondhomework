@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /*overflow: hidden;*/
+}
+
+
+.father{
+    width: 1000px;
+    height: 700px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    background: darkgrey;
+    position: relative;
+}
+
+.aa{
+    width: 150px;
+    height: 50px;
+    background: coral;
+    border-radius: 10px;
+    position: absolute;
+    top: 30px;
+    left: 80px;
+}
+
+.bb{
+    width: 1000px;
+    height: 450px;
+    background: darkblue;
+    position: relative;
+    top: 120px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background: mediumpurple;
+
+    position: relative;
+
+
+}
+.mainbox{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
