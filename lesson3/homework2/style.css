@@ -26,6 +26,24 @@ body{
     left: 80px;
 }
 
+.fa-solid{
+    width: 70px;
+    height: 50px;
+    color: black;
+    font-size: 40px ;
+    position: absolute;
+    top: 30px;
+    right: 80px;
+}
+.fa-brands{
+    width: 70px;
+    height: 50px;
+    color: black;
+    font-size: 40px ;
+    position: absolute;
+    top: 30px;
+    right: 40px;
+}
 .bb{
     width: 1000px;
     height: 450px;
