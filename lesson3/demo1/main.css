@@ -1,0 +1,49 @@
+body{display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.bbox{
+    width: 800px;
+    height: 250px;
+    border: 3px solid red;
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.minbox{
+    width: 130px;
+    height: 130px;
+    border-radius: 12px;
+    background: darkblue;
+}
+
+
+.father{
+    width: 1000px;
+    height: 350px;
+    border: 1px solid black;
+    background: darkgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.mother{
+    width: 1000px;
+    height: 350px;
+    border: 1px solid black;
+    background: #01012a;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: absolute;
+    top: 340px;
+}
+.round{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: whitesmoke;
+}
